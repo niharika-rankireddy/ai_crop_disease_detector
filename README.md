@@ -1,1 +1,1 @@
-# ai_crop_disease_detector
+# Ai_crop_disease_detector
